@@ -1,0 +1,74 @@
+[INFO ] 2021-08-24 19:06:09.001 [http-nio-8080-exec-1] StudentController - -> Inside save student Student [id=20004, name=hemabindu, passport=Passport [id=null, number=AAA111, action=null]]
+[INFO ] 2021-08-24 19:07:09.834 [http-nio-8080-exec-2] StudentController - -> Inside save student Student [id=20004, name=hemabindu, passport=Passport [id=null, number=AAA111, action=null]]
+[INFO ] 2021-08-24 23:44:42.005 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 23500 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-24 23:44:42.020 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-24 23:44:59.134 [main] RestWebServiceApplication - Started RestWebServiceApplication in 18.19 seconds (JVM running for 21.277)
+[INFO ] 2021-08-24 23:44:59.151 [main] RestWebServiceApplication - This is an info message abhishek, vikas
+[WARN ] 2021-08-24 23:44:59.151 [main] RestWebServiceApplication - This is a warn message
+[ERROR] 2021-08-24 23:44:59.151 [main] RestWebServiceApplication - This is an error message
+[FATAL] 2021-08-24 23:44:59.152 [main] RestWebServiceApplication - This is a fatal message
+[INFO ] 2021-08-24 23:45:46.416 [http-nio-8080-exec-1] StudentController - -> Inside save student Student [id=20004, name=hemabindu, passport=Passport [id=null, number=AAA111, action=null]]
+[INFO ] 2021-08-25 10:57:54.619 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 34596 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 10:57:54.634 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 10:58:11.729 [main] RestWebServiceApplication - Started RestWebServiceApplication in 17.678 seconds (JVM running for 19.534)
+[INFO ] 2021-08-25 10:58:11.752 [main] RestWebServiceApplication - This is an info message abhishek, vikas
+[WARN ] 2021-08-25 10:58:11.753 [main] RestWebServiceApplication - This is a warn message
+[ERROR] 2021-08-25 10:58:11.753 [main] RestWebServiceApplication - This is an error message
+[FATAL] 2021-08-25 10:58:11.753 [main] RestWebServiceApplication - This is a fatal message
+[INFO ] 2021-08-25 11:01:41.983 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 33808 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 11:01:41.988 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 11:01:51.036 [main] RestWebServiceApplication - Started RestWebServiceApplication in 9.464 seconds (JVM running for 10.855)
+[INFO ] 2021-08-25 11:01:51.043 [main] RestWebServiceApplication - This is an info message abhishek, vikas
+[WARN ] 2021-08-25 11:01:51.044 [main] RestWebServiceApplication - This is a warn message
+[ERROR] 2021-08-25 11:01:51.045 [main] RestWebServiceApplication - This is an error message
+[FATAL] 2021-08-25 11:01:51.045 [main] RestWebServiceApplication - This is a fatal message
+[INFO ] 2021-08-25 11:05:32.258 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 27884 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 11:05:32.263 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 11:05:42.391 [main] RestWebServiceApplication - Started RestWebServiceApplication in 10.505 seconds (JVM running for 11.821)
+[INFO ] 2021-08-25 11:05:42.396 [main] RestWebServiceApplication - This is an info message abhishek, vikas
+[WARN ] 2021-08-25 11:05:42.397 [main] RestWebServiceApplication - This is a warn message
+[ERROR] 2021-08-25 11:05:42.397 [main] RestWebServiceApplication - This is an error message
+[FATAL] 2021-08-25 11:05:42.397 [main] RestWebServiceApplication - This is a fatal message
+[INFO ] 2021-08-25 11:11:40.147 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 33068 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 11:11:40.152 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 11:11:53.180 [main] RestWebServiceApplication - Started RestWebServiceApplication in 13.496 seconds (JVM running for 15.294)
+[INFO ] 2021-08-25 11:11:53.195 [main] RestWebServiceApplication - This is an info message abhishek, vikas
+[WARN ] 2021-08-25 11:11:53.196 [main] RestWebServiceApplication - This is a warn message
+[ERROR] 2021-08-25 11:11:53.196 [main] RestWebServiceApplication - This is an error message
+[FATAL] 2021-08-25 11:11:53.196 [main] RestWebServiceApplication - This is a fatal message
+[INFO ] 2021-08-25 11:13:42.463 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 22808 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 11:13:42.470 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 11:13:52.322 [main] RestWebServiceApplication - Started RestWebServiceApplication in 10.256 seconds (JVM running for 11.656)
+[INFO ] 2021-08-25 11:13:52.329 [main] RestWebServiceApplication - This is an info message abhishek, vikas
+[WARN ] 2021-08-25 11:13:52.330 [main] RestWebServiceApplication - This is a warn message
+[ERROR] 2021-08-25 11:13:52.330 [main] RestWebServiceApplication - This is an error message
+[FATAL] 2021-08-25 11:13:52.330 [main] RestWebServiceApplication - This is a fatal message
+[INFO ] 2021-08-25 11:14:18.824 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 24752 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 11:14:18.829 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 11:14:27.589 [main] RestWebServiceApplication - Started RestWebServiceApplication in 9.121 seconds (JVM running for 10.499)
+[INFO ] 2021-08-25 11:14:27.595 [main] RestWebServiceApplication - This is an info message abhishek, vikas
+[WARN ] 2021-08-25 11:14:27.595 [main] RestWebServiceApplication - This is a warn message
+[ERROR] 2021-08-25 11:14:27.595 [main] RestWebServiceApplication - This is an error message
+[FATAL] 2021-08-25 11:14:27.595 [main] RestWebServiceApplication - This is a fatal message
+[INFO ] 2021-08-25 11:21:36.920 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 24444 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 11:21:36.923 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 11:22:08.400 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 30832 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 11:22:08.403 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 11:23:02.692 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 35316 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 11:23:02.696 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 12:09:23.950 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 35532 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 12:09:23.965 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 12:09:39.415 [main] RestWebServiceApplication - Started RestWebServiceApplication in 15.983 seconds (JVM running for 17.645)
+[INFO ] 2021-08-25 12:09:39.426 [main] RestWebServiceApplication - This is an info message abhishek, vikas
+[WARN ] 2021-08-25 12:09:39.427 [main] RestWebServiceApplication - This is a warn message
+[ERROR] 2021-08-25 12:09:39.427 [main] RestWebServiceApplication - This is an error message
+[FATAL] 2021-08-25 12:09:39.427 [main] RestWebServiceApplication - This is a fatal message
+[INFO ] 2021-08-25 12:16:28.541 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 18216 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 12:16:28.545 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 12:17:03.851 [main] RestWebServiceApplication - Starting RestWebServiceApplication using Java 1.8.0_251 on INAbPrasad01 with PID 34380 (C:\STS_Workbench\players\codebase\rest-web-service\target\classes started by AbPrasad in C:\STS_Workbench\players\codebase\rest-web-service)
+[INFO ] 2021-08-25 12:17:03.855 [main] RestWebServiceApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-25 12:17:10.210 [main] RestWebServiceApplication - Started RestWebServiceApplication in 6.694 seconds (JVM running for 7.864)
+[INFO ] 2021-08-25 12:17:10.215 [main] RestWebServiceApplication - This is an info message abhishek, vikas
+[WARN ] 2021-08-25 12:17:10.215 [main] RestWebServiceApplication - This is a warn message
+[ERROR] 2021-08-25 12:17:10.215 [main] RestWebServiceApplication - This is an error message
+[FATAL] 2021-08-25 12:17:10.215 [main] RestWebServiceApplication - This is a fatal message
